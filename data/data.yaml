@@ -1,0 +1,6 @@
+info: &data
+  name: "l"
+  phone: "s"
+add:
+  <<: *data
+  detail: "TBD"
